@@ -1,2 +1,2 @@
-# TicTacToeGame
-Tic Tac Toe game in react
+# react-hooks-scaffold
+React template with hooks
